@@ -25,7 +25,7 @@ SECRET_KEY = 'bn9qz_2_4ezh=xo)_^x%@8*z6-(nbzlb!+$wfdkrw@x*gzj12u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','adibookstore.herokuapp.com']
 
 
 # Application definition
